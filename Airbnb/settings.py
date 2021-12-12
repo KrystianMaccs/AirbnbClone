@@ -52,7 +52,6 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'Airbnb.urls'
 
-AUTH_USER_MODEL = 'accounts.CustomUser'
 
 TEMPLATES = [
     {
